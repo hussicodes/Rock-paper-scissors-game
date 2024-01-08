@@ -1,0 +1,7 @@
+C:\Users\husse\Documents\Datamatiker\1.Semester\Basis_programmering\rps2\RPS2\bin\Debug\RPS2.exe.config
+C:\Users\husse\Documents\Datamatiker\1.Semester\Basis_programmering\rps2\RPS2\bin\Debug\RPS2.exe
+C:\Users\husse\Documents\Datamatiker\1.Semester\Basis_programmering\rps2\RPS2\bin\Debug\RPS2.pdb
+C:\Users\husse\Documents\Datamatiker\1.Semester\Basis_programmering\rps2\RPS2\obj\Debug\RPS2.csproj.AssemblyReference.cache
+C:\Users\husse\Documents\Datamatiker\1.Semester\Basis_programmering\rps2\RPS2\obj\Debug\RPS2.csproj.CoreCompileInputs.cache
+C:\Users\husse\Documents\Datamatiker\1.Semester\Basis_programmering\rps2\RPS2\obj\Debug\RPS2.exe
+C:\Users\husse\Documents\Datamatiker\1.Semester\Basis_programmering\rps2\RPS2\obj\Debug\RPS2.pdb
